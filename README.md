@@ -3,3 +3,5 @@
 Some JavaScript examples 
 
 Add div with new number in id
+
+edit example
