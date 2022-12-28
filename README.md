@@ -4,3 +4,4 @@ Some JavaScript examples
 
 Add div with new number in id
 
+step 1
